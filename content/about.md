@@ -9,7 +9,7 @@ My research focuses on applying psychological principles and insights to address
 
 Find me here 👇 
 
-<i class="fab fa-twitter"></i> [@drewroc6](https://twitter.com/drewroc6)  
+<i class="fa-brands fa-twitter"></i> [@drewroc6](https://twitter.com/drewroc6)  
 <i class="fab fa-github"></i> [@andr3wli](https://github.com/andr3wli)  
 <i class="fas fa-link"></i> [andrewcli.com](https://www.andrewcli.com)  
 <i class="fas fa-paper-plane"></i> <andrewc.li@ubc.ca>  
