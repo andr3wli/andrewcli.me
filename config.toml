@@ -2,7 +2,7 @@ baseurl                  = "https://example.com"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Call me Sam"
+title                    = "andrew li"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
@@ -16,7 +16,7 @@ pygmentsCodefences       = true
     footerText           = ""
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
+    description          = "Andrew Li's personal website"               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Call me Sam"
     # rss                = ""
