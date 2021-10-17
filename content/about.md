@@ -2,6 +2,9 @@
 title: "About"
 date: 2021-10-16T22:59:11-07:00
 ---
+<!-- Go to https://fontawesome.com/v4.7/icons/ to find the icons you need - I am using font awesome 4 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 
 Hello! My name is Andrew Li and I am psychology master's student at the University of British Columbia, where I am supervised by [Jiaying Zhao](https://psych.ubc.ca/profile/jiaying-zhao/).
 
@@ -9,14 +12,19 @@ My research focuses on applying psychological principles and insights to address
 
 Find me here 👇 
 
-<i class="fa-brands fa-twitter"></i> [@drewroc6](https://twitter.com/drewroc6)  
-<i class="fab fa-github"></i> [@andr3wli](https://github.com/andr3wli)  
-<i class="fas fa-link"></i> [andrewcli.com](https://www.andrewcli.com)  
-<i class="fas fa-paper-plane"></i> <andrewc.li@ubc.ca>  
-<i class="fas fa-graduation-cap"></i> [Google Scholar](https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao)  
+<i class="fa fa-twitter" aria-hidden="true"></i> [@drewroc6](https://twitter.com/drewroc6)  
+<i class="fa fa-github" aria-hidden="true"></i> [@andr3wli](https://github.com/andr3wli)  
+<i class="fa fa-globe" aria-hidden="true"></i> [andrewcli.com](https://www.andrewcli.com)  
+<i class="fa fa-codepen" aria-hidden="true"></i> [Codepen](https://codepen.io/andrew-li-the-styleful) \
+<i class="fa fa-envelope" aria-hidden="true"></i> <andrewc.li@ubc.ca>  
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> [Google Scholar](https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao)  
 
-## Abbreviated CV 
-<span> You can find my full CV [here]()</span>
+<br>
+
+<div>
+       <h2 style="display: inline;">Abbreviated CV</h2>
+       <p style="display: inline;">(You can find my full CV <a href="cv/andrewli_cv.pdf">here</a>)</p>
+</div>
 
 ### Education 
 
@@ -53,5 +61,4 @@ University of British Columbia, Vancouver
 
 [Best Buddies Canada](https://bestbuddies.ca)
 * Peer mentor, 2011 - 2017
-
 
