@@ -1,5 +1,5 @@
 ---
-title: "Contact 📞"
+title: "Contact"
 date: 2021-10-16T23:03:51-07:00
 ---
 

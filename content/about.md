@@ -3,13 +3,15 @@ title: "About"
 date: 2021-10-16T22:59:11-07:00
 ---
 
-Hello! My name is Andrew Li and I am psychology master student at the University of British Columbia, where I am supervised by [Jiaying Zhao](https://psych.ubc.ca/profile/jiaying-zhao/).
+Hello! My name is Andrew Li and I am psychology master's student at the University of British Columbia, where I am supervised by [Jiaying Zhao](https://psych.ubc.ca/profile/jiaying-zhao/).
 
 My research focuses on applying psychological principles and insights to address environmental issues. Towards this end, I run field and lab experiments to promote behavior change in waste reduction and climate mitigation.
 
-<i class="fab fa-twitter"></i> [@drewroc6](//twitter.com/jennybryan)  
-<i class="fab fa-github"></i> [@andr3wli](//github.com/jennybc)  
-<i class="fas fa-link"></i> [andrewcli.com](https://jennybryan.org)  
+Find me here 👇 
+
+<i class="fab fa-twitter"></i> [@drewroc6](https://twitter.com/drewroc6)  
+<i class="fab fa-github"></i> [@andr3wli](https://github.com/andr3wli)  
+<i class="fas fa-link"></i> [andrewcli.com](https://www.andrewcli.com)  
 <i class="fas fa-paper-plane"></i> <andrewc.li@ubc.ca>  
 <i class="fas fa-graduation-cap"></i> [Google Scholar](https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao)  
 
@@ -51,3 +53,5 @@ University of British Columbia, Vancouver
 
 [Best Buddies Canada](https://bestbuddies.ca)
 * Peer mentor, 2011 - 2017
+
+

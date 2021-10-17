@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>andrew li</title>
+    <title>👨‍💻 andrew li</title>
     <link>https://example.com/</link>
-    <description>Recent content on andrew li</description>
+    <description>Recent content on 👨‍💻 andrew li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact 📞</title>
+      <title>Contact</title>
       <link>https://example.com/contact/</link>
       <pubDate>Sat, 16 Oct 2021 23:03:51 -0700</pubDate>
       
@@ -22,7 +22,7 @@ Whether you have a question or just want to say hi, I&amp;rsquo;ll try my best t
       <pubDate>Sat, 16 Oct 2021 23:03:34 -0700</pubDate>
       
       <guid>https://example.com/conference/</guid>
-      <description>2021&amp;nbsp;¶  shinyRGT: A R Shiny app for extraction and visualization of Rat gambling task data, CascadiaRConf, June 4-5, Virtual conference | Video | Slides Accumbal cholinergic interneurons modulate decision making, Society for Neuroscience, Jan 11-13, Virtual conference | Poster Gq stimulation of VTA dopamine neurons enhances addiction vulnerability, Society for Neuroscience, Jan 11-13, Virtual conference | Poster  2020&amp;nbsp;¶  Assessing cue-induced craving in individuals with methamphetamine addiction through portable EEG technology, UBC Psychiatry Virtual research Conference, Oct 15, Virtual Conference | Poster Responding for a conditioned reinforcer does not predict risky decision making in rats, international Behavioural Neuroscience Society, Aug 3, Virtual Conference  2019&amp;nbsp;¶   Investigating the effects of a high-fat, high-sugar diet on risky decision making in rats, UBC Neuroscience Undergraduate Research Conference, Jan 31, Vancouver, BC | Poster</description>
+      <description>2021&amp;nbsp;¶  shinyRGT: A R Shiny app for extraction and visualization of Rat gambling task data, CascadiaRConf, June 4-5, Virtual conference, Video | Slides Accumbal cholinergic interneurons modulate decision making, Society for Neuroscience, Jan 11-13, Virtual conference, Poster Gq stimulation of VTA dopamine neurons enhances addiction vulnerability, Society for Neuroscience, Jan 11-13, Virtual conference, Poster  2020&amp;nbsp;¶  Assessing cue-induced craving in individuals with methamphetamine addiction through portable EEG technology, UBC Psychiatry Virtual research Conference, Oct 15, Virtual Conference, Poster Responding for a conditioned reinforcer does not predict risky decision making in rats, international Behavioural Neuroscience Society, Aug 3, Virtual Conference  2019&amp;nbsp;¶   Investigating the effects of a high-fat, high-sugar diet on risky decision making in rats, UBC Neuroscience Undergraduate Research Conference, Jan 31, Vancouver, BC, Poster | Slides</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@ Upcoming workshops&amp;nbsp;¶  Statistical models in R, Oct 26 &amp;amp; 28 (1-
       <guid>https://example.com/publication/</guid>
       <description> 2021&amp;nbsp;¶   shinyJackpot: Visualizing lottery gambling in a large Canadian city, under review.
 Andrew Li
-PsyArXiv | App | Code | BibTeX
+ PsyArXiv | App | Code | BibTeX
   ECOSCOPE: Data Science Workshops
 Kim Dill-Mcfarland, Stephan König, Andrew Li, Gil Henriques, Kris Hong, Yue Liu, Florant Mazel, &amp;amp; Steven Hallam
 Online textbook | PDF | Code
@@ -57,14 +57,14 @@ Online textbook | PDF | Code
       <pubDate>Sat, 16 Oct 2021 22:59:11 -0700</pubDate>
       
       <guid>https://example.com/about/</guid>
-      <description>Hello! My name is Andrew Li and I am psychology master student at the University of British Columbia, where I am supervised by Jiaying Zhao.
+      <description>Hello! My name is Andrew Li and I am psychology master&amp;rsquo;s student at the University of British Columbia, where I am supervised by Jiaying Zhao.
 My research focuses on applying psychological principles and insights to address environmental issues. Towards this end, I run field and lab experiments to promote behavior change in waste reduction and climate mitigation.
-@drewroc6
-@andr3wli
-andrewcli.com
-andrewc.li@ubc.ca
-Google Scholar
-Abbreviated CV&amp;nbsp;¶ You can find my full CV hereEducation&amp;nbsp;¶ University of British Columbia</description>
+Find me here 👇
+ @drewroc6
+ @andr3wli
+ andrewcli.com
+ andrewc.li@ubc.ca
+ Google Scholar</description>
     </item>
     
   </channel>
