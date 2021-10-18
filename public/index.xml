@@ -2,35 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>👨‍💻 andrew li</title>
-    <link>https://example.com/</link>
+    <link>https://www.andrewcli.com/</link>
     <description>Recent content on 👨‍💻 andrew li</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>https://example.com/contact/</link>
-      <pubDate>Sat, 16 Oct 2021 23:03:51 -0700</pubDate>
-      
-      <guid>https://example.com/contact/</guid>
-      <description>My inbox is always open!
-Whether you have a question or just want to say hi, I&amp;rsquo;ll try my best to get back to you 🤠</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://www.andrewcli.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conferences</title>
-      <link>https://example.com/conference/</link>
+      <link>https://www.andrewcli.com/conference/</link>
       <pubDate>Sat, 16 Oct 2021 23:03:34 -0700</pubDate>
       
-      <guid>https://example.com/conference/</guid>
-      <description>2021&amp;nbsp;¶  shinyRGT: A R Shiny app for extraction and visualization of Rat gambling task data, CascadiaRConf, June 4-5, Virtual conference, Video | Slides Accumbal cholinergic interneurons modulate decision making, Society for Neuroscience, Jan 11-13, Virtual conference, Poster Gq stimulation of VTA dopamine neurons enhances addiction vulnerability, Society for Neuroscience, Jan 11-13, Virtual conference, Poster  2020&amp;nbsp;¶  Assessing cue-induced craving in individuals with methamphetamine addiction through portable EEG technology, UBC Psychiatry Virtual research Conference, Oct 15, Virtual Conference, Poster Responding for a conditioned reinforcer does not predict risky decision making in rats, international Behavioural Neuroscience Society, Aug 3, Virtual Conference  2019&amp;nbsp;¶   Investigating the effects of a high-fat, high-sugar diet on risky decision making in rats, UBC Neuroscience Undergraduate Research Conference, Jan 31, Vancouver, BC, Poster | Slides</description>
+      <guid>https://www.andrewcli.com/conference/</guid>
+      <description>2021&amp;nbsp;¶   shinyRGT: A R Shiny app for extraction and visualization of Rat gambling task data CascadiaRConf, June 4-5, Virtual conference,  Video |  Slides
+  Accumbal cholinergic interneurons modulate decision making, Society for Neuroscience, Jan 11-13, Virtual conference,  Poster
+  Gq stimulation of VTA dopamine neurons enhances addiction vulnerability, Society for Neuroscience, Jan 11-13, Virtual conference,  Poster
+  2020&amp;nbsp;¶   Assessing cue-induced craving in individuals with methamphetamine addiction through portable EEG technology, UBC Psychiatry Virtual research Conference, Oct 15, Virtual Conference,  Poster</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://example.com/teach/</link>
+      <link>https://www.andrewcli.com/teach/</link>
       <pubDate>Sat, 16 Oct 2021 23:02:58 -0700</pubDate>
       
-      <guid>https://example.com/teach/</guid>
+      <guid>https://www.andrewcli.com/teach/</guid>
       <description>I am a certified Software Carpentries instructor.
 All my teaching materials are freely and publicly available. We created a bookdown textbook to accompany the ECOSCOPE workshops. As well, we created educer, a R package to accompany the workshops.
 Upcoming workshops&amp;nbsp;¶  Statistical models in R, Oct 26 &amp;amp; 28 (1-4pm) - sign up here! Introduction to R and RStudio, Nov 16 (2-4pm) - sign up here! Intermediate R programming, Nov 23 &amp;amp; 25 (1-4pm) - sign up here!</description>
@@ -38,33 +31,27 @@ Upcoming workshops&amp;nbsp;¶  Statistical models in R, Oct 26 &amp;amp; 28 (1-
     
     <item>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>https://www.andrewcli.com/publication/</link>
       <pubDate>Sat, 16 Oct 2021 23:02:47 -0700</pubDate>
       
-      <guid>https://example.com/publication/</guid>
-      <description> 2021&amp;nbsp;¶   shinyJackpot: Visualizing lottery gambling in a large Canadian city, under review.
+      <guid>https://www.andrewcli.com/publication/</guid>
+      <description>2021&amp;nbsp;¶   shinyJackpot: Visualizing lottery gambling in a large Canadian city
 Andrew Li
- PsyArXiv | App | Code | BibTeX
+Under review in the Journal of Open Source Software
+ PsyArXiv |  App |  Code |  BibTeX
   ECOSCOPE: Data Science Workshops
 Kim Dill-Mcfarland, Stephan König, Andrew Li, Gil Henriques, Kris Hong, Yue Liu, Florant Mazel, &amp;amp; Steven Hallam
-Online textbook | PDF | Code
+ Online textbook |  PDF |  Code
   </description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://example.com/about/</link>
+      <title></title>
+      <link>https://www.andrewcli.com/about/</link>
       <pubDate>Sat, 16 Oct 2021 22:59:11 -0700</pubDate>
       
-      <guid>https://example.com/about/</guid>
-      <description>Hello! My name is Andrew Li and I am psychology master&amp;rsquo;s student at the University of British Columbia, where I am supervised by Jiaying Zhao.
-My research focuses on applying psychological principles and insights to address environmental issues. Towards this end, I run field and lab experiments to promote behavior change in waste reduction and climate mitigation.
-Find me here 👇
- @drewroc6
- @andr3wli
- andrewcli.com
- andrewc.li@ubc.ca
- Google Scholar</description>
+      <guid>https://www.andrewcli.com/about/</guid>
+      <description>.header img { float: left; width: 200px; height: 200px; background: #555; border-radius: 50%; } .header h1 { position: relative; top: 18px; left: 20px; font-size: 40px; } #position { position: relative; top: -10px; left: 25px; } #faculty { position: relative; top: -30px; left: 25px; } .header ul { list-style: none; position: relative; top: -45px; left: 20px; font-size: 30px; } .header li { display: inline; top: -38px; text-decoration: none!important; }  Andrew Li Graduate Student Psychology &amp;#x2022 Neuroscience &amp;#x2022 UBC                    About Hello!</description>
     </item>
     
   </channel>

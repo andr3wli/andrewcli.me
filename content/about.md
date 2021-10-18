@@ -1,16 +1,80 @@
 ---
-title: "About"
+title: ""
 date: 2021-10-16T22:59:11-07:00
 ---
 <!-- Go to https://fontawesome.com/v4.7/icons/ to find the icons you need - I am using font awesome 4 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
 
-Hello! My name is Andrew Li and I am psychology master's student at the University of British Columbia, where I am supervised by [Jiaying Zhao](https://psych.ubc.ca/profile/jiaying-zhao/).
+<style>
+.header img {
+  float: left;
+  width: 200px;
+  height: 200px;
+  background: #555;
+  border-radius: 50%;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 20px;
+  font-size: 40px;
+}
+
+#position {
+  position: relative;
+  top: -10px;
+  left: 25px;
+}
+
+#faculty {
+  position: relative;
+  top: -30px;
+  left: 25px;
+}
+
+.header ul {
+  list-style: none;
+  position: relative;
+  top: -45px;
+  left: 20px;
+  font-size: 30px;
+}
+
+.header li {
+  display: inline;
+  top: -38px;
+  text-decoration: none!important;
+}
+
+</style>
+
+<div class="header">
+  <img src="https://avatars.githubusercontent.com/u/62564779?v=4" alt="logo" />
+  <h1>Andrew Li</h1>
+  <h3 id="position">Graduate Student</h3>
+  <h3 id="faculty"><a href="https://psych.ubc.ca">Psychology</a> &#x2022 <a href="https://neuroscience.centreforbrainhealth.ca/members-neuroscience">Neuroscience</a> &#x2022 <a href="https://www.ubc.ca">UBC</a></h3> 
+  <ul class="list">
+  <li> <a href="andrewc.li@ubc.ca" id="email"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+  <li> <a href="https://github.com/andr3wli"> <i class="ai ai-cv ai"></i> </a></li>
+  <li> <a href="https://github.com/andr3wli"> <i class="fa fa-github" aria-hidden="true"></i> </a></li>
+  <li> <a href="https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao"> <i class="fa fa-graduation-cap" aria-hidden="true"></i> </a></li>
+  <li> <a href="https://codepen.io/andrew-li-the-styleful"> <i class="fa fa-codepen" aria-hidden="true"></i> </a></li>
+  <li> <a href="https://twitter.com/drewroc6"> <i class="fa fa-twitter" aria-hidden="true"></i> </a></li>
+
+  </ul>
+</div>
+
+
+<h2>About</h2>
+
+Hello! My name is Andrew Li and I am psychology master's student at the University of British Columbia, where I am supervised by [Jiaying Zhao](https://psych.ubc.ca/profile/jiaying-zhao/). 
 
 My research focuses on applying psychological principles and insights to address environmental issues. Towards this end, I run field and lab experiments to promote behavior change in waste reduction and climate mitigation.
 
-Find me here 👇 
+<!-- Find me here 👇 
 
 <i class="fa fa-twitter" aria-hidden="true"></i> [@drewroc6](https://twitter.com/drewroc6)  
 <i class="fa fa-github" aria-hidden="true"></i> [@andr3wli](https://github.com/andr3wli)  
@@ -19,20 +83,17 @@ Find me here 👇
 <i class="fa fa-envelope" aria-hidden="true"></i> <andrewc.li@ubc.ca>  
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> [Google Scholar](https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao)  
 
-<br>
+<br> -->
 
-<div>
-       <h2 style="display: inline;">Abbreviated CV</h2>
-       <p style="display: inline;">(You can find my full CV <a href="cv/andrewli_cv.pdf">here</a>)</p>
-</div>
+<h2>Abbreviated CV</h2>
 
-### Education 
+<h3>Education</h3>
 
-University of British Columbia 
+University of British Columbia
 
 * M.A in Psychology (Ongoing)
 
-University of British Columbia 
+University of British Columbia
 
 * B.A in [Psychology](https://www.youtube.com/watch?v=9ZaLipDgFZQ) in 2020
 

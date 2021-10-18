@@ -1,4 +1,4 @@
-baseurl                  = "https://example.com"           # Your domain name
+baseurl                  = "https://www.andrewcli.com"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -49,9 +49,7 @@ pygmentsCodefences       = true
     link = "/conference"
     text = "conference"
 
-[[params.mainMenu]]
-    link = "/contact"
-    text = "contact"
+
 
 [imaging]
     quality = 75
