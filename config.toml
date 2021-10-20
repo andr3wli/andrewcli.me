@@ -42,7 +42,7 @@ pygmentsCodefences       = true
     text = "publication"
 
 [[params.mainMenu]]
-    link = "/teach"
+    link = "gallery"
     text = "teach"
 
 [[params.mainMenu]]

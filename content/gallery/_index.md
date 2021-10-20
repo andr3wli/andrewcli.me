@@ -1,6 +1,10 @@
 ---
 title: "Teaching"
-date: 2021-10-16T23:02:58-07:00
+type: "gallery"
+url: "/gallery"
+maxWidth: "800x"
+clickablePhotos: false
+keepAspectRatio: false
 ---
 
 I am a certified [Software Carpentries](https://carpentries.org/instructors/) instructor.

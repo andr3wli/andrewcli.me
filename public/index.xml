@@ -18,17 +18,6 @@
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>https://www.andrewcli.com/teach/</link>
-      <pubDate>Sat, 16 Oct 2021 23:02:58 -0700</pubDate>
-      
-      <guid>https://www.andrewcli.com/teach/</guid>
-      <description>I am a certified Software Carpentries instructor.
-All my teaching materials are freely and publicly available. We created a bookdown textbook to accompany the ECOSCOPE workshops. As well, we created educer, a R package to accompany the workshops.
-Upcoming workshops&amp;nbsp;¶  Statistical models in R, Oct 26 &amp;amp; 28 (1-4pm) - sign up here! Introduction to R and RStudio, Nov 16 (2-4pm) - sign up here! Intermediate R programming, Nov 23 &amp;amp; 25 (1-4pm) - sign up here!</description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://www.andrewcli.com/publication/</link>
       <pubDate>Sat, 16 Oct 2021 23:02:47 -0700</pubDate>
