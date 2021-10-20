@@ -49,6 +49,13 @@ date: 2021-10-16T22:59:11-07:00
   text-decoration: none!important;
 }
 
+.inline-img {
+  display: inline;
+  margin: 0 0.125em;
+  padding: 0;
+  vertical-align: baseline;
+}
+
 </style>
 
 <div class="header">
@@ -70,9 +77,12 @@ date: 2021-10-16T22:59:11-07:00
 
 <h2>About</h2>
 
-Hello! My name is Andrew Li and I am psychology master's student at the University of British Columbia, where I am supervised by [Jiaying Zhao](https://psych.ubc.ca/profile/jiaying-zhao/). 
+
+
+Hello👋! My name is Andrew Li and I am psychology master's student at the University of British Columbia, where I am supervised by [Jiaying Zhao](https://psych.ubc.ca/profile/jiaying-zhao/). 
 
 My research focuses on applying psychological principles and insights to address environmental issues. Towards this end, I run field and lab experiments to promote behavior change in waste reduction and climate mitigation.
+
 
 <!-- Find me here 👇 
 

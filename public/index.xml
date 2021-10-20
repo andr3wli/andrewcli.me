@@ -39,7 +39,7 @@ Kim Dill-Mcfarland, Stephan König, Andrew Li, Gil Henriques, Kris Hong, Yue Liu
       <pubDate>Sat, 16 Oct 2021 22:59:11 -0700</pubDate>
       
       <guid>https://www.andrewcli.com/about/</guid>
-      <description>.header img { float: left; width: 200px; height: 200px; background: #555; border-radius: 50%; } .header h1 { position: relative; top: 18px; left: 20px; font-size: 40px; } #position { position: relative; top: -10px; left: 25px; } #faculty { position: relative; top: -30px; left: 25px; } .header ul { list-style: none; position: relative; top: -45px; left: 20px; font-size: 30px; } .header li { display: inline; top: -38px; text-decoration: none!important; }  Andrew Li Graduate Student Psychology &amp;#x2022 Neuroscience &amp;#x2022 UBC                    About Hello!</description>
+      <description>.header img { float: left; width: 200px; height: 200px; background: #555; border-radius: 50%; } .header h1 { position: relative; top: 18px; left: 20px; font-size: 40px; } #position { position: relative; top: -10px; left: 25px; } #faculty { position: relative; top: -30px; left: 25px; } .header ul { list-style: none; position: relative; top: -45px; left: 20px; font-size: 30px; } .header li { display: inline; top: -38px; text-decoration: none!important; } .inline-img { display: inline; margin: 0 0.</description>
     </item>
     
   </channel>
