@@ -6,6 +6,10 @@ date: 2021-10-16T23:03:34-07:00
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
+## 2022 
+
+* **The Effects of progressive-Prize lottery on the Regressivity of Lottery Products** [Behavioral Insights into Business for Social Good (BIBSG) Conference](https://www.sauder.ubc.ca/event/behavioural-insights-business-social-good-conference), April 1-2, Vancouver, BC
+
 ## 2021 
 
 * **shinyRGT: A R Shiny app for extraction and visualization of Rat gambling task data** [CascadiaRConf](https://cascadiarconf.com), June 4-5, Virtual conference, [<i class="fa fa-youtube-play" aria-hidden="true"></i> Video](https://www.youtube.com/watch?v=MNb_ww-tR5g) | [<i class="fa fa-desktop" aria-hidden="true"></i> Slides](https://drive.google.com/file/d/1yMv3uqbk5T3MABRzC2R7bCJeHmrp7aY1/view?usp=sharing) | [<i class="fa fa-external-link" aria-hidden="true"></i> App](https://andrewcli.shinyapps.io/shinyRGT/) | [<i class="fa fa-code" aria-hidden="true"></i> Code](https://github.com/andr3wli/shinyapps/tree/main/shinyRGT)
