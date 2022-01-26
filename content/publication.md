@@ -6,6 +6,13 @@ date: 2021-10-16T23:02:47-07:00
 
 <!-- Go to https://fontawesome.com/v4.7/icons/ to find the icons you need - I am using font awesome 4 -->
 
+<!-- ## 2022
+
+* **shinyRGT: An R-Shiny application for extraction and visualization of Rat Gambling Task data** \
+<small>Andrew Li</small>\
+[<i class="fa fa-external-link" aria-hidden="true"></i> bioRxiv](https://psyarxiv.com/ksqhb/) | [<i class="fa fa-external-link" aria-hidden="true"></i> App](https://andrewcli.shinyapps.io/shinyRGT/) | [<i class="fa fa-code" aria-hidden="true"></i> Code](https://github.com/andr3wli/shinyapps/tree/main/shinyRGT)  -->
+
+
 ## 2021 
 
 * **shinyJackpot: Visualizing lottery gambling in a large Canadian city** \

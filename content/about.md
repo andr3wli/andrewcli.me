@@ -64,11 +64,10 @@ date: 2021-10-16T22:59:11-07:00
   <h3 id="position">Graduate Student</h3>
   <h3 id="faculty"><a href="https://psych.ubc.ca">Psychology</a> &#x2022 <a href="https://neuroscience.centreforbrainhealth.ca/members-neuroscience">Neuroscience</a> &#x2022 <a href="https://www.ubc.ca">UBC</a></h3> 
   <ul class="list">
-  <li> <a href="andrewc.li@ubc.ca" id="email"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+  <li> <a href="mailto:andrewc.li@ubc.ca" id="email"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
   <li> <a href="https://github.com/andr3wli/andrewcli.me/blob/main/cv/andrewli_cv.pdf"> <i class="ai ai-cv ai"></i> </a></li>
   <li> <a href="https://github.com/andr3wli"> <i class="fa fa-github" aria-hidden="true"></i> </a></li>
   <li> <a href="https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao"> <i class="fa fa-graduation-cap" aria-hidden="true"></i> </a></li>
-  <li> <a href="https://codepen.io/andrew-li-the-styleful"> <i class="fa fa-codepen" aria-hidden="true"></i> </a></li>
   <li> <a href="https://twitter.com/drewroc6"> <i class="fa fa-twitter" aria-hidden="true"></i> </a></li>
 
   </ul>

@@ -10,6 +10,8 @@ date: 2021-10-16T23:03:34-07:00
 
 * **The Effects of progressive-Prize lottery on the Regressivity of Lottery Products** [Behavioral Insights into Business for Social Good (BIBSG) Conference](https://www.sauder.ubc.ca/event/behavioural-insights-business-social-good-conference), April 1-2, Vancouver, BC
 
+* **A meta-analytic cognitive framework of nudge and sludge** [The Society for Judgment and Decision Making](http://www.sjdm.org), February 10-12, Virtual conference
+
 ## 2021 
 
 * **shinyRGT: A R Shiny app for extraction and visualization of Rat gambling task data** [CascadiaRConf](https://cascadiarconf.com), June 4-5, Virtual conference, [<i class="fa fa-youtube-play" aria-hidden="true"></i> Video](https://www.youtube.com/watch?v=MNb_ww-tR5g) | [<i class="fa fa-desktop" aria-hidden="true"></i> Slides](https://drive.google.com/file/d/1yMv3uqbk5T3MABRzC2R7bCJeHmrp7aY1/view?usp=sharing) | [<i class="fa fa-external-link" aria-hidden="true"></i> App](https://andrewcli.shinyapps.io/shinyRGT/) | [<i class="fa fa-code" aria-hidden="true"></i> Code](https://github.com/andr3wli/shinyapps/tree/main/shinyRGT)
