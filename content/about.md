@@ -65,7 +65,7 @@ date: 2021-10-16T22:59:11-07:00
   <h3 id="faculty"><a href="https://psych.ubc.ca">Psychology</a> &#x2022 <a href="https://neuroscience.centreforbrainhealth.ca/members-neuroscience">Neuroscience</a> &#x2022 <a href="https://www.ubc.ca">UBC</a></h3> 
   <ul class="list">
   <li> <a href="mailto:andrewc.li@ubc.ca" id="email"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
-  <li> <a href="https://github.com/andr3wli/andrewcli.me/blob/main/cv/andrewli_cv.pdf"> <i class="ai ai-cv ai"></i> </a></li>
+  <li> <a href="https://drive.google.com/file/d/1tIAlCY4H8mGyqoX0SVkhqYrSinOluXmC/view?usp=sharing"> <i class="ai ai-cv ai"></i> </a></li>
   <li> <a href="https://github.com/andr3wli"> <i class="fa fa-github" aria-hidden="true"></i> </a></li>
   <li> <a href="https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao"> <i class="fa fa-graduation-cap" aria-hidden="true"></i> </a></li>
   <li> <a href="https://twitter.com/drewroc6"> <i class="fa fa-twitter" aria-hidden="true"></i> </a></li>
@@ -106,7 +106,7 @@ University of British Columbia
 
 * B.A in [Psychology](https://www.youtube.com/watch?v=9ZaLipDgFZQ) in 2020
 
-### Research 
+### Research Experience
 
 University of British Columbia, Vancouver 
 
@@ -117,14 +117,22 @@ University of British Columbia, Vancouver
 * [Emotion and Self Lab](http://ubc-emotionlab.ca), Sept 2018 - April 2019
 * [Culture and Self Lab](https://heinelab.psych.ubc.ca), April 2018 - Sept 2018
 
+### Professional Experience 
+
+* Gradaute Teaching Assistant, [UBC Master of Data Science](https://masterdatascience.ubc.ca)
+* Data Analyst & Survey Coordinator, [Gradaute Student Society](https://gss.ubc.ca)
+* Data Science Workshop Developer & Instructor, [ECOSCOPE](https://educe-ubc.github.io)
 
 ### Service 
 
+[Software Carpentry & Data Carpentry](https://psych.ubc.ca/diversity-mentorship-program/)
+* Taught foundational coding and data science skills to researchers, 2021 - Ongoing
+
 [Diversity Mentorship Program](https://psych.ubc.ca/diversity-mentorship-program/)
-* Mentor for prospective graduate students in psychology, 2020 - Ongoing
+* Mentor for prospective graduate students in psychology, 2020 - 2021
 
 [The Neural Network Mentorship program](https://ubcneuroscienceclub.wixsite.com/uncweb/neural-network-mentorship)
-* Mentor for prospective graduate students in neuroscience, 2020 - Ongoing
+* Mentor for prospective graduate students in neuroscience, 2020 - 2021
 
 [Jerome Outreach Society](https://jeromeoutreach.com)
 * Program coordinator and Head coach, 2016 - Ongoing
