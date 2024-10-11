@@ -101,7 +101,7 @@ Previously, I worked as a Senior Economist with the BC Ministry of Health and st
 
 University of British Columbia
 
-* MSc, Pharmacology and Therapeutics, Psychology, University of British Columbia
+* MSc, Pharmacology and Therapeutics, University of British Columbia
 * MA, Psychology, University of British Columbia (1 year left)
 * BA, Psychology, University of British Columbia
 
