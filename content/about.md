@@ -70,7 +70,7 @@ margin-top: 4px;
   <h1>Andrew Li, 李卓谦</h1>
   <h3 id="position">Graduate Student</h3>
   <h3 id="position" class="email">andrewc.li@ubc.ca</h3>
-  <h3id="faculty"><a href="https://www.ti.ubc.ca">Pharmacoepidemiology</a> &#x2022 <a href="https://www.advancinghealth.ubc.ca/program/health-economics/">Health Economics</a> &#x2022 <a href="https://www.ubc.ca">UBC</a></h3> 
+  <h3 id="faculty"><a href="https://www.ti.ubc.ca">Pharmacoepidemiology</a> &#x2022 <a href="https://www.advancinghealth.ubc.ca/program/health-economics/">Health Economics</a> &#x2022 <a href="https://www.ubc.ca">UBC</a></h3> 
   <ul class="list">
  <li> <a href="https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao"> <i class="fa fa-graduation-cap" aria-hidden="true"></i> </a></li>
   <li> <a href="https://drive.google.com/file/d/1tIAlCY4H8mGyqoX0SVkhqYrSinOluXmC/view?usp=sharing"> <i class="ai ai-cv ai"></i> </a></li>
