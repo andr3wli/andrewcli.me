@@ -21,32 +21,36 @@ date: 2021-10-16T22:59:11-07:00
   top: 18px;
   left: 20px;
   font-size: 40px;
+  margin: 0; 
 }
 
 #position {
   position: relative;
   top: -10px;
   left: 25px;
+  margin: 0; 
 }
 
 #faculty {
   position: relative;
-  top: -30px;
+  top: -20px; 
   left: 25px;
+  margin: 0; 
 }
 
 .header ul {
   list-style: none;
   position: relative;
-  top: -45px;
+  top: -30px; 
   left: 20px;
   font-size: 30px;
+  padding: 0; 
+  margin: 0; 
 }
 
 .header li {
   display: inline;
-  top: -38px;
-  text-decoration: none!important;
+  margin-right: 15px; 
 }
 
 .inline-img {
@@ -57,12 +61,14 @@ date: 2021-10-16T22:59:11-07:00
 }
 
 h3.email {
-font-family: 'Roboto Mono', monospace;
-font-weight: 300;
-font-size: 12pt;
-margin-top: 4px;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 300;
+  font-size: 12pt;
+  margin-top: 4px;
+  position: relative;
+  top: -10px; 
+  left: 25px;
 }
-
 </style>
 
 <div class="header">
@@ -70,14 +76,21 @@ margin-top: 4px;
   <h1>Andrew Li, 李卓谦</h1>
   <h3 id="position">Graduate Student</h3>
   <h3 id="position" class="email">andrewc.li@ubc.ca</h3>
-  <h3 id="faculty"><a href="https://www.ti.ubc.ca">Pharmacoepidemiology</a> &#x2022 <a href="https://www.advancinghealth.ubc.ca/program/health-economics/">Health Economics</a> &#x2022 <a href="https://www.ubc.ca">UBC</a></h3> 
+  
+  <h3 id="faculty">
+    <a href="https://www.ti.ubc.ca">Pharmacoepidemiology</a> &#x2022 
+    <a href="https://www.advancinghealth.ubc.ca/program/health-economics/">Health Economics</a> &#x2022 
+    <a href="https://www.ubc.ca">UBC</a>
+  </h3> 
+  
   <ul class="list">
- <li> <a href="https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao"> <i class="fa fa-graduation-cap" aria-hidden="true"></i> </a></li>
-  <li> <a href="https://drive.google.com/file/d/1tIAlCY4H8mGyqoX0SVkhqYrSinOluXmC/view?usp=sharing"> <i class="ai ai-cv ai"></i> </a></li>
-  <li> <a href="https://github.com/andr3wli"> <i class="fa fa-github" aria-hidden="true"></i> </a></li>
-  <li> <a href="https://twitter.com/drewroc6"> <i class="fa fa-twitter" aria-hidden="true"></i> </a></li>
+    <li><a href="https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a></li>
+    <li><a href="https://drive.google.com/file/d/1tIAlCY4H8mGyqoX0SVkhqYrSinOluXmC/view?usp=sharing"><i class="ai ai-cv ai"></i></a></li>
+    <li><a href="https://github.com/andr3wli"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+    <li><a href="https://twitter.com/drewroc6"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
   </ul>
 </div>
+
 
 
 <h2>About</h2>
