@@ -8,48 +8,51 @@ date: 2021-10-16T22:59:11-07:00
 
 
 <style>
+.header {
+  display: flex; 
+  align-items: center; 
+}
+
 .header img {
-  float: left;
   width: 200px;
   height: 200px;
   background: #555;
   border-radius: 50%;
+  margin-right: 20px; 
+}
+
+.header-content {
+  flex: 1; 
 }
 
 .header h1 {
-  position: relative;
-  top: 18px;
-  left: 20px;
   font-size: 40px;
-  margin: 0; 
+  margin: 0;
 }
 
 #position {
-  position: relative;
-  top: -10px;
-  left: 25px;
-  margin: 0; 
+  margin: 5px 0; 
 }
 
 #faculty {
-  position: relative;
-  top: -20px; 
-  left: 25px;
-  margin: 0; 
+  margin: 5px 0; 
+}
+
+h3.email {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 300;
+  font-size: 12pt;
+  margin: 5px 0;
 }
 
 .header ul {
   list-style: none;
-  position: relative;
-  top: -30px; 
-  left: 20px;
-  font-size: 30px;
-  padding: 0; 
-  margin: 0; 
+  display: flex;
+  padding: 0;
+  margin: 10px 0 0 0; 
 }
 
 .header li {
-  display: inline;
   margin-right: 15px; 
 }
 
@@ -59,36 +62,28 @@ date: 2021-10-16T22:59:11-07:00
   padding: 0;
   vertical-align: baseline;
 }
-
-h3.email {
-  font-family: 'Roboto Mono', monospace;
-  font-weight: 300;
-  font-size: 12pt;
-  margin-top: 4px;
-  position: relative;
-  top: -10px; 
-  left: 25px;
-}
 </style>
 
 <div class="header">
   <img src="https://avatars.githubusercontent.com/u/62564779?v=4" alt="logo" />
-  <h1>Andrew Li, 李卓谦</h1>
-  <h3 id="position">Graduate Student</h3>
-  <h3 id="position" class="email">andrewc.li@ubc.ca</h3>
-  
-  <h3 id="faculty">
-    <a href="https://www.ti.ubc.ca">Pharmacoepidemiology</a> &#x2022 
-    <a href="https://www.advancinghealth.ubc.ca/program/health-economics/">Health Economics</a> &#x2022 
-    <a href="https://www.ubc.ca">UBC</a>
-  </h3> 
-  
-  <ul class="list">
-    <li><a href="https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a></li>
-    <li><a href="https://drive.google.com/file/d/1tIAlCY4H8mGyqoX0SVkhqYrSinOluXmC/view?usp=sharing"><i class="ai ai-cv ai"></i></a></li>
-    <li><a href="https://github.com/andr3wli"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-    <li><a href="https://twitter.com/drewroc6"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-  </ul>
+  <div class="header-content">
+    <h1>Andrew Li, 李卓谦</h1>
+    <h3 id="position">Graduate Student</h3>
+    <h3 class="email">andrewc.li@ubc.ca</h3>
+    <h3 id="faculty">
+      <a href="https://www.ti.ubc.ca">Pharmacoepidemiology</a> &#x2022 
+      <a href="https://www.advancinghealth.ubc.ca/program/health-economics/">Health Economics</a> &#x2022 
+      <a href="https://www.ubc.ca">UBC</a>
+    </h3>
+    <ul class="list">
+      <li><a href="https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a></li>
+      <li><a href="https://drive.google.com/file/d/1tIAlCY4H8mGyqoX0SVkhqYrSinOluXmC/view?usp=sharing"><i class="ai ai-cv ai"></i></a></li>
+      <li><a href="https://github.com/andr3wli"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+      <li><a href="https://twitter.com/drewroc6"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+      <li><a href="https://www.linkedin.com/in/andrew-li-781011240/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> 
+
+    </ul>
+  </div>
 </div>
 
 
