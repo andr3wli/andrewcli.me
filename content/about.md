@@ -80,11 +80,11 @@ h3.email {
       <li><a href="https://drive.google.com/file/d/1tIAlCY4H8mGyqoX0SVkhqYrSinOluXmC/view?usp=sharing"><i class="ai ai-cv ai"></i></a></li>
       <li><a href="https://github.com/andr3wli"><i class="fa fa-github" aria-hidden="true"></i></a></li>
       <li><a href="https://twitter.com/drewroc6"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-      <li><a href="https://www.linkedin.com/in/andrew-li-781011240/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> 
-
+      <li><a href="https://linkedin.com/in/andr3wli"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> 
     </ul>
   </div>
 </div>
+
 
 
 
