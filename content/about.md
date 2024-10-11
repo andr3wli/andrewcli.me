@@ -56,87 +56,70 @@ date: 2021-10-16T22:59:11-07:00
   vertical-align: baseline;
 }
 
+h3.email {
+font-family: 'Roboto Mono', monospace;
+font-weight: 300;
+font-size: 12pt;
+margin-top: 4px;
+}
+
 </style>
 
 <div class="header">
   <img src="https://avatars.githubusercontent.com/u/62564779?v=4" alt="logo" />
-  <h1>Andrew Li</h1>
+  <h1>Andrew Li, 李卓谦</h1>
   <h3 id="position">Graduate Student</h3>
-  <h3 id="faculty"><a href="https://psych.ubc.ca">Psychology</a> &#x2022 <a href="https://neuroscience.centreforbrainhealth.ca/members-neuroscience">Neuroscience</a> &#x2022 <a href="https://www.ubc.ca">UBC</a></h3> 
+  <h3 id="position" class="email">andrewc.li@ubc.ca</h3>
+  <h3id="faculty"><a href="https://www.ti.ubc.ca">Pharmacoepidemiology</a> &#x2022 <a href="https://www.advancinghealth.ubc.ca/program/health-economics/">Health Economics</a> &#x2022 <a href="https://www.ubc.ca">UBC</a></h3> 
   <ul class="list">
-  <li> <a href="mailto:andrewc.li@ubc.ca" id="email"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+ <li> <a href="https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao"> <i class="fa fa-graduation-cap" aria-hidden="true"></i> </a></li>
   <li> <a href="https://drive.google.com/file/d/1tIAlCY4H8mGyqoX0SVkhqYrSinOluXmC/view?usp=sharing"> <i class="ai ai-cv ai"></i> </a></li>
   <li> <a href="https://github.com/andr3wli"> <i class="fa fa-github" aria-hidden="true"></i> </a></li>
-  <li> <a href="https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao"> <i class="fa fa-graduation-cap" aria-hidden="true"></i> </a></li>
   <li> <a href="https://twitter.com/drewroc6"> <i class="fa fa-twitter" aria-hidden="true"></i> </a></li>
-
   </ul>
 </div>
 
 
 <h2>About</h2>
 
+I am an epidemiology graduate student advised by [Colin Dormuth](https://www.cnodes.ca/member/colin-r-dormuth/) at the University of British Columbia. Much of my research has been generously supported by a [SSHRC Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp) and a [Faculty of Medicine Graduate Student Award](https://grad-postdoc.med.ubc.ca/faculty-of-medicine-graduate-student-awards/#:~:text=The%20Graduate%20Student%20Awards%20are,to%20distribute%20among%20our%20learners.).
+
+My research uses diverse administrative databases (PharmaNet, PopData BC, US IBM Marketscan) to evaluate drug safety and effectiveness. As well, I monitor and evaluate novel physician compensation models (e.g., LFP, capitation). 
+
+Previously, I worked as a Senior Economist with the BC Ministry of Health and studied [psychology](https://www.youtube.com/watch?v=9ZaLipDgFZQ&pp=ygUic28geW91IHdhbnQgdG8gY2xpbmljYWwgcHN5Y2hpbG9neQ%3D%3D) at the University of British Columbia. In my free time, I like to watch the LA Lakers and train run (training for a sub 3:15 marathon).
 
 
-Hello👋! My name is Andrew Li and I am psychology master's student at the University of British Columbia, where I am supervised by [Jiaying Zhao](https://psych.ubc.ca/profile/jiaying-zhao/). 
-
-My research focuses on applying psychological principles and insights to address environmental issues. Towards this end, I run field and lab experiments to promote behavior change in waste reduction and climate mitigation.
-
-
-<!-- Find me here 👇 
-
-<i class="fa fa-twitter" aria-hidden="true"></i> [@drewroc6](https://twitter.com/drewroc6)  
-<i class="fa fa-github" aria-hidden="true"></i> [@andr3wli](https://github.com/andr3wli)  
-<i class="fa fa-globe" aria-hidden="true"></i> [andrewcli.com](https://www.andrewcli.com)  
-<i class="fa fa-codepen" aria-hidden="true"></i> [Codepen](https://codepen.io/andrew-li-the-styleful) \
-<i class="fa fa-envelope" aria-hidden="true"></i> <andrewc.li@ubc.ca>  
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> [Google Scholar](https://scholar.google.ca/citations?user=WrgTRaUAAAAJ&hl=en&oi=ao)  
-
-<br> -->
-
-<h2>Abbreviated CV</h2>
-
-<h3>Education</h3>
+<h2>Education</h2>
 
 University of British Columbia
 
-* M.A in Psychology (Ongoing)
+* MSc, Pharmacology and Therapeutics, Psychology, University of British Columbia
+* MA, Psychology, University of British Columbia (1 year left)
+* BA, Psychology, University of British Columbia
 
-University of British Columbia
+<h2>Research Experience</h2>
 
-* B.A in [Psychology](https://www.youtube.com/watch?v=9ZaLipDgFZQ) in 2020
+* [Therapeutics Initiative](https://www.ti.ubc.ca)
+* [Behavioral Sustainability Lab](https://zhaolab.psych.ubc.ca)
+* [Centre for Gambling Research](https://cgr.psych.ubc.ca)
+* [Behavioral Reward Affect + Impulsivity Lab](https://brainlab.med.ubc.ca)
+* [Laboratory of Molecular and Behavioural Neuroscience](https://winstanleylab.psych.ubc.ca)
+* [Emotion and Self Lab](http://ubc-emotionlab.ca)
+* [Culture and Self Lab](https://heinelab.psych.ubc.ca)
 
-### Research Experience
+<h2>Professional Experience</h2> 
 
-University of British Columbia, Vancouver 
-
-* [Behavioral Sustainability Lab](https://zhaolab.psych.ubc.ca), Sept 2020 - Present
-* [Centre for Gambling Research](https://cgr.psych.ubc.ca), Sept 2020 - Sept 2021
-* [Behavioral Reward Affect + Impulsivity Lab](https://brainlab.med.ubc.ca), Sept 2020 - May 2021
-* [Laboratory of Molecular and Behavioural Neuroscience](https://winstanleylab.psych.ubc.ca), May 2019 - May 2021
-* [Emotion and Self Lab](http://ubc-emotionlab.ca), Sept 2018 - April 2019
-* [Culture and Self Lab](https://heinelab.psych.ubc.ca), April 2018 - Sept 2018
-
-### Professional Experience 
-
+* Senior Economist, [BC Ministry of Health](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/health)
 * Gradaute Teaching Assistant, [UBC Master of Data Science](https://masterdatascience.ubc.ca)
-* Data Analyst & Survey Coordinator, [Gradaute Student Society](https://gss.ubc.ca)
-* Data Science Workshop Developer & Instructor, [ECOSCOPE](https://educe-ubc.github.io)
+* Data Analyst, [Gradaute Student Society](https://gss.ubc.ca)
+* Data Scientist, [Ecoscope](https://educe-ubc.github.io)
 
-### Service 
+<h2>Service</h2>
 
-[Software Carpentry & Data Carpentry](https://psych.ubc.ca/diversity-mentorship-program/)
-* Taught foundational coding and data science skills to researchers, 2021 - Ongoing
+* [Software Carpentry & Data Carpentry](https://psych.ubc.ca/diversity-mentorship-program/)
+* [Diversity Mentorship Program](https://psych.ubc.ca/diversity-mentorship-program/) 
+* [The Neural Network Mentorship program](https://ubcneuroscienceclub.wixsite.com/uncweb/neural-network-mentorship)
+* [Jerome Outreach Society](https://jeromeoutreach.com)
+* [Best Buddies Canada](https://bestbuddies.ca)
 
-[Diversity Mentorship Program](https://psych.ubc.ca/diversity-mentorship-program/)
-* Mentor for prospective graduate students in psychology, 2020 - 2021
-
-[The Neural Network Mentorship program](https://ubcneuroscienceclub.wixsite.com/uncweb/neural-network-mentorship)
-* Mentor for prospective graduate students in neuroscience, 2020 - 2021
-
-[Jerome Outreach Society](https://jeromeoutreach.com)
-* Program coordinator and Head coach, 2016 - Ongoing
-
-[Best Buddies Canada](https://bestbuddies.ca)
-* Peer mentor, 2011 - 2017
 
