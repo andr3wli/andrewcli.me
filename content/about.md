@@ -94,7 +94,7 @@ I am an epidemiology graduate student advised by [Colin Dormuth](https://www.cno
 
 My research uses diverse administrative databases (PharmaNet, PopData BC, US IBM Marketscan) to evaluate drug safety and effectiveness. As well, I monitor and evaluate novel physician compensation models (e.g., LFP, capitation). 
 
-Previously, I worked as a Senior Economist with the BC Ministry of Health and studied [psychology](https://www.youtube.com/watch?v=9ZaLipDgFZQ&pp=ygUic28geW91IHdhbnQgdG8gY2xpbmljYWwgcHN5Y2hpbG9neQ%3D%3D) at the University of British Columbia. In my free time, I like to watch the LA Lakers and train run (training for a sub 3:15 marathon).
+Previously, I worked as a Senior Economist with the BC Ministry of Health and studied [psychology](https://www.youtube.com/watch?v=9ZaLipDgFZQ&pp=ygUic28geW91IHdhbnQgdG8gY2xpbmljYWwgcHN5Y2hpbG9neQ%3D%3D) at the University of British Columbia. In my free time, I like to watch the LA Lakers and run (training for a sub 3:15 marathon).
 
 
 <h2>Education</h2>
